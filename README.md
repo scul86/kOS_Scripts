@@ -1,2 +1,6 @@
-# launch.ks
-kOS script to launch to orbit
+# kOS_Scripts
+kOS script repository
+
+launch.ks
+execNode.ks
+hover.ks
